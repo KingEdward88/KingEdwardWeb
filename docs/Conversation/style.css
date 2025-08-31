@@ -2,7 +2,7 @@
 .grid-container {
     display: grid;
     grid-template-columns: 0.2fr 1fr; /* Two equal-width columns */
-    grid-template-rows: repeat(4, 175px); /* Four equal-height rows */
+    grid-template-rows: repeat(4, 125px); /* Four equal-height rows */
     gap: 10px; /* Space between grid items */
     border: 1px solid #ccc;
     padding: 10px;
